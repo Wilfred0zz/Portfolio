@@ -20,7 +20,7 @@ export default function Projects() {
       <div className="grid grid-cols-3 shadow-sm shadow-gray-800 pb-5">
         <div>
           <h4 className="text-2xl py-1 text-center text-teal-500">Summary</h4>
-          <p className="text-md leading-8 text-gray-500 text-center pt-6">
+          <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
             Aita is a site where a user can purchase a seed and then you can
             grow that seed. After which you can then after the day and proper
@@ -55,7 +55,7 @@ export default function Projects() {
       <div className="grid grid-cols-3 shadow-sm shadow-gray-800 pt-8 pb-5">
         <div>
           <h4 className="text-2xl py-1 text-center text-teal-500">Summary</h4>
-          <p className="text-md leading-8 text-gray-500 text-center pt-6">
+          <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
             Campus Cuisine is an andorid app where college students can order
             food straight to where they are sitting. It allows also for students
@@ -90,7 +90,7 @@ export default function Projects() {
       <div className="grid grid-cols-3 shadow-lg shadow-gray-800 pt-8 pb-5">
         <div>
           <h4 className="text-2xl py-1 text-center text-teal-500">Summary</h4>
-          <p className="text-md leading-8 text-gray-500 text-center pt-6">
+          <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
             Solar System Education is a site where you can interact by moving
             around and seeing the planets. Along with it one can gain

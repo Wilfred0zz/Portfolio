@@ -12,7 +12,7 @@ import { AiFillLinkedin, AiFillGithub, AiFillDatabase } from "react-icons/ai";
 export default function Main() {
   return (
     <div>
-      <nav className="py-20 mb-12 flex justify-between">
+      <nav className="py-10 mb-12 flex justify-between">
         <h1 className="text-xl text-teal-500 font-poppins">Portfolio</h1>
         <ul className="flex items-center">
           <li>

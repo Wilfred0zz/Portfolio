@@ -22,11 +22,7 @@ export default function Projects() {
           <h4 className="text-2xl py-1 text-center text-teal-500">Summary</h4>
           <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
-            Aita is a site where a user can purchase a seed and then you can
-            grow that seed. After which you can then after the day and proper
-            care sell the plant to then buy more seeds of different prices from
-            the store. Each user starts off with a certain balance and can
-            create their own account.
+            Aita is a single player plant management game where a user will purchase seeds and supplies from a store to grow plants which they will later sell for revenue. The user will be in charge of watering/caring for the plant; and the plant will grow in real time. Users that grow and sell plants successfully achieve accomplishments and earn money to buy rewards. The game will allow users to feel productive and entertained and studies have shown that management games improve individual’s memory, sustained attentional skills, reduces negative feelings, etc.
           </p>
         </div>
         <div className="text-center">
@@ -57,11 +53,11 @@ export default function Projects() {
           <h4 className="text-2xl py-1 text-center text-teal-500">Summary</h4>
           <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
-            Campus Cuisine is an andorid app where college students can order
+            Campus Cuisine is an android app where college students can order
             food straight to where they are sitting. It allows also for students
             to become deliverers. The difference between this app and other apps
             is that the deliverers can enter the campus building since they are
-            also students unlike other food delivery apps.
+            also students, unlike other food delivery apps.
           </p>
         </div>
         <div className="text-center">
@@ -93,7 +89,7 @@ export default function Projects() {
           <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
             Solar System Education is a site where you can interact by moving
-            around and seeing the planets. Along with it one can gain
+            around and seeing the planets. Along with it, one can gain
             information on them. It also comes with the feature of practicing
             ones knowledge with Quizzes.
           </p>

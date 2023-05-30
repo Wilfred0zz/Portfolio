@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import tempPic from "../assets/me.jpg";
+import tempPic from "../assets/face.jpg";
 
 import {
   BsFillMoonStarsFill,
@@ -46,7 +46,7 @@ export default function Main() {
           <Image
             src={tempPic}
             alt="profile pic "
-            className="rounded-full mt-2 h-66 w-60"
+            className="rounded-full mt-2 h-80 w-80"
           />
         </div>
       </div>

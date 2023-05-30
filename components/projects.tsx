@@ -22,7 +22,15 @@ export default function Projects() {
           <h4 className="text-2xl py-1 text-center text-teal-500">Summary</h4>
           <p className="text-md leading-8 text-white text-center pt-6">
             {" "}
-            Aita is a single player plant management game where a user will purchase seeds and supplies from a store to grow plants which they will later sell for revenue. The user will be in charge of watering/caring for the plant; and the plant will grow in real time. Users that grow and sell plants successfully achieve accomplishments and earn money to buy rewards. The game will allow users to feel productive and entertained and studies have shown that management games improve individual’s memory, sustained attentional skills, reduces negative feelings, etc.
+            Aita is a single player plant management game where a user will
+            purchase seeds and supplies from a store to grow plants which they
+            will later sell for revenue. The user will be in charge of
+            watering/caring for the plant; and the plant will grow in real time.
+            Users that grow and sell plants successfully achieve accomplishments
+            and earn money to buy rewards. The game will allow users to feel
+            productive and entertained and studies have shown that management
+            games improve individual’s memory, sustained attentional skills,
+            reduces negative feelings, etc.
           </p>
         </div>
         <div className="text-center">
@@ -37,7 +45,11 @@ export default function Projects() {
         <div className="relative py-3 ">
           <div>
             <h4 className="text-2xl py-1 text-center text-teal-500">Aita</h4>
-            <a href="https://github.com/Wilfred0zz/Aita" target="_blank" rel="noopener noreferrer">
+            <a
+              href="https://github.com/Wilfred0zz/Aita"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Image
                 src={aitaPic}
                 alt="aita application gif"
@@ -72,12 +84,16 @@ export default function Projects() {
             <h4 className="text-2xl py-1 text-center text-teal-500">
               Campus Cuisine{" "}
             </h4>
-            <a href="https://github.com/Wilfred0zz/CampusCuisine" target="_blank" rel="noopener noreferrer">
-            <Image
-              src={campusCuisineMobile}
-              alt="campusCuisineMobile Application gif"
-              className="object-scale-down h-80 w-90 mx-auto pt-4"
-            />
+            <a
+              href="https://github.com/Wilfred0zz/CampusCuisine"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src={campusCuisineMobile}
+                alt="campusCuisineMobile Application gif"
+                className="object-scale-down h-80 w-90 mx-auto pt-4"
+              />
             </a>
           </div>
         </div>
@@ -107,12 +123,16 @@ export default function Projects() {
             <h4 className="text-2xl py-1 text-center text-teal-500">
               Solar System Education{" "}
             </h4>
-            <a href="https://github.com/Wilfred0zz/Solar-System-Education" target="_blank" rel="noopener noreferrer">
-            <Image
-              src={solarsystemPic}
-              alt="solar system education gif"
-              className="object-scale-down h-80 w-90 mx-auto pt-4 "
-            />
+            <a
+              href="https://github.com/Wilfred0zz/Solar-System-Education"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                src={solarsystemPic}
+                alt="solar system education gif"
+                className="object-scale-down h-80 w-90 mx-auto pt-4 "
+              />
             </a>
           </div>
         </div>

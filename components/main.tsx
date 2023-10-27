@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import tempPic from "../assets/face.jpg";
+import tempPic from "../assets/me.jpg.png";
 
 import {
   BsFillMoonStarsFill,
